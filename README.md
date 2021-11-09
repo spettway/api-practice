@@ -4,7 +4,10 @@ This is boiler plate for a MERN stack server. It is the finished server code for
 
 https://www.youtube.com/watch?v=ngc9gnGgUdA&t=3461s
 
-Connected to a live Mondgo DB on Mongo Atlas - check .env for the MongoDB link.
+
+Database: Connected to a live Mondgo DB on Mongo Atlas - check .env file for the MongoDB link or to replace it.
+
+Auth: Uses jwt authentication - currently has a placeholder for the secret token - "test-secret-change-this"
 
 
 
